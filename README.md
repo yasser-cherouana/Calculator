@@ -1,23 +1,22 @@
-# My First Calculator
+# Hi, I'm Yasser 👋
 
-A simple calculator built with HTML, CSS and JavaScript.
+I'm from Algeria and I'm looking for an **Ausbildung in Germany**.
 
-## Live demo
-https://yasser-cherouana.github.io/Calculator/
+## About me
+- 🎓 Baccalauréat in Mathematics (2022)
+- 🗣️ Arabic (native), German (B2), English (B1), French (A2)
+- 💻 HTML, CSS, JavaScript, React, Word, Excel
 
-## Features
-- Addition, subtraction, multiplication and division
-- Percent, decimal numbers and backspace
-- Clear button (Ac)
-- Responsive design
+## Currently learning
+- 🇩🇪 German: preparing for the Goethe exam and working towards C1
+- 🇬🇧 English: improving my speaking, reading and writing every day
+- 💻 Web development: building small projects with HTML, CSS, JavaScript, React
+- 🔧 Git and GitHub
 
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
 
-## How to run
-Open `index.html` in your browser.
 
-## Author
-Yasser Cherouana
+## Projects
+- [My First Calculator](https://github.com/yasser-cherouana/Calculator) - [Live demo](https://yasser-cherouana.github.io/Calculator/)
+
+## Contact
+yassercherouana72@gmail.com
